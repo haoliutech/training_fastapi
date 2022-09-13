@@ -1,0 +1,15 @@
+{
+    "house_ID": "1 happy lane",
+    "tenants": [
+      {
+        "user_ID": "Hao",
+        "face1": "Images/hao.jpeg",
+        "face2": "Images/hao2.jpeg"
+      },
+      {
+        "user_ID": "Mia",
+        "face1": "Images/mia.jpeg",
+        "face2": "Images/mia2.jpeg"
+      }
+    ]
+  }
